@@ -1,2 +1,2 @@
-# C-codes
-# Just a repository for my C# learning
+# CSharp-codes
+Just a repository for my C# learning
