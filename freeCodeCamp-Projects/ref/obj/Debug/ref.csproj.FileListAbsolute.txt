@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\bin\Debug\@ref.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\bin\Debug\@ref.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\bin\Debug\@ref.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\obj\Debug\ref.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\obj\Debug\ref.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\obj\Debug\@ref.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ref\obj\Debug\@ref.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\bin\Debug\@ref.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\bin\Debug\@ref.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\bin\Debug\@ref.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\obj\Debug\ref.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\obj\Debug\ref.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\obj\Debug\@ref.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ref\obj\Debug\@ref.pdb

@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\obj\Debug\structures.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\obj\Debug\structures.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\bin\Debug\structures.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\bin\Debug\structures.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\bin\Debug\structures.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\obj\Debug\structures.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\structures\obj\Debug\structures.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\bin\Debug\structures.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\bin\Debug\structures.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\bin\Debug\structures.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\obj\Debug\structures.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\obj\Debug\structures.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\obj\Debug\structures.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\structures\obj\Debug\structures.pdb

@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\bin\Debug\odd-even.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\odd-even\obj\Debug\odd-even.pdb

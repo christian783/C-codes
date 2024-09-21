@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\bin\Debug\ReturnType.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\ReturnType\obj\Debug\ReturnType.pdb

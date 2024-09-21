@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\bin\Debug\Exercise.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\Exercise\obj\Debug\Exercise.pdb

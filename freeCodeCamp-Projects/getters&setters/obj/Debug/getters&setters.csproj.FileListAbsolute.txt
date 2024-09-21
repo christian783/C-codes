@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\bin\Debug\getters&setters.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\getters&setters\obj\Debug\getters&setters.pdb

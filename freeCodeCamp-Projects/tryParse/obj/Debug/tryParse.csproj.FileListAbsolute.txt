@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\bin\Debug\tryParse.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\tryParse\obj\Debug\tryParse.pdb

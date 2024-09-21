@@ -1,0 +1,14 @@
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.exe.config
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.pdb
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.csproj.AssemblyReference.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.csproj.CoreCompileInputs.cache
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.exe
+C:\Users\Christian\source\repos\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.exe.config
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\bin\Debug\custom_try_parse.pdb
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.csproj.AssemblyReference.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.exe
+C:\Users\Christian\Source\Repos\CSharp-codes\freeCodeCamp-Projects\custom_try_parse\obj\Debug\custom_try_parse.pdb
